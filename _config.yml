@@ -68,8 +68,8 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-title: Scarfs
-description: Scarf`s from INDIA
+title: ' Scarves'
+description: Silk-blend infinity scarves
 github: true
 author:
   name: Patel Chittimella
@@ -77,7 +77,7 @@ author:
 purpose:
   - type: contact
     url: 'mailto:chkvpatel@gmail.com'
-    label: Contact
+    label: Contact Us
   - type: contact
     url: 'tel:777518000'
     label: Call
