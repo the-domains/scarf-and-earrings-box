@@ -78,3 +78,6 @@ purpose:
   - type: contact
     url: 'mailto:chkvpatel@gmail.com'
     label: Contact
+  - type: contact
+    url: 'tel:777518000'
+    label: Call
