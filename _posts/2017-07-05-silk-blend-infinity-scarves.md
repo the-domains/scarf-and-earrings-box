@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-07-05T14:57:24.594Z'
-datePublished: '2017-07-05T14:57:25.051Z'
+dateModified: '2017-07-05T15:01:00.573Z'
+datePublished: '2017-07-05T15:01:01.242Z'
 title: Not all Superheroes wear caps some wear Scarves
 author: []
 publisher: {}
