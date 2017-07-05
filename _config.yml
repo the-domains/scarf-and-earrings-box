@@ -74,3 +74,7 @@ github: true
 author:
   name: Patel Chittimella
   email: chkvpatel@gmail.com
+purpose:
+  - type: contact
+    url: 'mailto:chkvpatel@gmail.com'
+    label: Contact
