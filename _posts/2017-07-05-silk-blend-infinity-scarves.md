@@ -1,9 +1,9 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-07-05T15:03:47.349Z'
-datePublished: '2017-07-05T15:03:47.864Z'
-title: Not all Superheroes wear caps some wear Scarves
+dateModified: '2017-07-05T15:06:39.031Z'
+datePublished: '2017-07-05T15:06:39.526Z'
+title: ''
 author:
   - {}
 publisher: {}
@@ -14,4 +14,6 @@ datePublishedOriginal: '2017-07-05T14:53:36.027Z'
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7948338f-c719-44b1-8bd5-ecd75a586f79.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/04d6f757-71b2-4680-9c85-c5ee83e26cf5.jpg)
+
+> Not all Superheroes wear caps some wear Scarves
